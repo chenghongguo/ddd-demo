@@ -14,6 +14,8 @@ import java.util.stream.Collectors;
 
 /**
  * @author baiyan
+ * CQRS command query responsibility
+ * 命令查询责任
  */
 @Repository
 public class RoleQueryApplicationServiceImpl implements RoleQueryApplicationService {
